@@ -184,4 +184,19 @@
     <Lat>-41.297243</Lat>
     <Long>173.224844</Long>
   </Radar>
+
+  <Radar Name="Paraparaumu SMC" Type="SMR" Elevation="19" MaxRange="4">
+    <Lat>-40.901701</Lat>
+    <Long>174.986028</Long>
+  </Radar>
+
+  <Radar Name="North Shore SMC" Type="SMR" Elevation="212" MaxRange="4">
+    <Lat>-36.655749</Lat>
+    <Long>174.655828</Long>
+  </Radar>
+
+  <Radar Name="Ardmore SMC" Type="SMR" Elevation="109" MaxRange="4">
+    <Lat>-37.030263</Lat>
+    <Long>174.972677</Long>
+  </Radar>
 </Radars>
