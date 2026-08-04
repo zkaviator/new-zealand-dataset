@@ -26,7 +26,7 @@
       -40.209364+175.399772/OH27T/IGLAM/PATBI/POSOL/IGBUD
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy09 OH1R-->
+      <!--Rwy09 OH2-->
     </Line>
     <Line Pattern="Dashed">
       <!--Rwy09 RIML1T-->
@@ -144,7 +144,7 @@
       -40.202656+175.374325/OH09T/IGLAM/PATBI/POSOL/IGBUD
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy27 OH1S-->
+      <!--Rwy27 OH2-->
       OH27T/OH09T
     </Line>
     <Line Pattern="Dashed">
@@ -242,6 +242,10 @@
       -40.217233+175.390497/OH33T/IGLAM/PATBI/POSOL/IGBUD
     </Line>
     <Line Pattern="Dashed">
+      <!--Rwy15 OH2-->
+      -40.217233+175.390497/OH15T/OH33T
+    </Line>
+    <Line Pattern="Dashed">
       <!--Rwy15 RIML1T-->
       IGLAM/MABEK/RIMLU
     </Line>
@@ -251,11 +255,13 @@
       <Point>PATBI</Point>
       <Point>POSOL</Point>
       <Point>IGBUD</Point>
+      <Point>OH15T</Point>
       <Point>MABEK</Point>
       <Point>RIMLU</Point>
     </Symbol>
     <Label HasLeader="true">
       <Point>IGBUD</Point>
+      <Point>OH33T</Point>
       <Point>RIMLU</Point>
     </Label>
   </Map>
@@ -292,6 +298,10 @@
       -40.199703+175.386042/OH15T/IGLAM/PATBI/POSOL/IGBUD
     </Line>
     <Line Pattern="Dashed">
+      <!--Rwy33 OH2-->
+      -40.199703+175.386042/OH33T/OH15T
+    </Line>
+    <Line Pattern="Dashed">
       <!--Rwy33 RIML1T-->
       IGLAM/MABEK/RIMLU
     </Line>
@@ -301,11 +311,13 @@
       <Point>PATBI</Point>
       <Point>POSOL</Point>
       <Point>IGBUD</Point>
+      <Point>OH33T</Point>
       <Point>MABEK</Point>
       <Point>RIMLU</Point>
     </Symbol>
     <Label HasLeader="true">
       <Point>IGBUD</Point>
+      <Point>OH15T</Point>
       <Point>RIMLU</Point>
     </Label>
   </Map>

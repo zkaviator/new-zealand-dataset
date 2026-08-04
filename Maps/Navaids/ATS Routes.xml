@@ -10,7 +10,7 @@
     <Line Name="A584">TBU VOR.A584.FU NDB</Line>
     <Line Name="A592">TBU VOR.A592.PUPIS</Line>
     <Line Name="A597">AA VOR.A597.VIRAR</Line>
-    <Line Name="B200">AKLOM.B200.MEGOG</Line>
+    <Line Name="B200">AKLOM.B200.PUMIS</Line>
     <Line Name="B333">SALAG.B333.RUMIX</Line>
     <Line Name="B450">LHI NDB.B450.TUT NDB</Line>
     <Line Name="B451">DOLSI.B451.GURDI</Line>
@@ -18,11 +18,11 @@
     <Line Name="B455">TV NDB.B455.OGELA</Line>
     <Line Name="B575">AA VOR.B575.TUT NDB</Line>
     <Line Name="B577">HOI VOR.B577.QUIGG</Line>
-    <Line Name="B578">NILAX.B578.DUMUM</Line>
+    <Line Name="B578">NILAX.B578.TAPAP</Line>
     <Line Name="B581">BAXIL.B581.WACOS</Line>
     <Line Name="B596">RG VOR.B596.RAYOR</Line>
     <Line Name="B598">RG VOR.B598.SUGNI</Line>
-    <Line Name="B599">ELDOG.B599.LEMUN</Line>
+    <Line Name="B599">ELDOG.B599.ATURE</Line>
     <Line Name="G223">MIKOP.G223.PAGRA</Line>
     <Line Name="G224">NF VOR.G224.OPERU</Line>
     <Line Name="G329">NF VOR.G329.DOVOM</Line>
@@ -31,7 +31,7 @@
     <Line Name="G591">AA VOR.G591.SCUBA</Line>
     <Line Name="G593">RG VOR.G593.PAGRA</Line>
     <Line Name="G594">AA VOR.G594.MAITO</Line>
-    <Line Name="G595">SARAP.G595.RAXER</Line>
+    <Line Name="G595">SARAP.G595.SABUB</Line>
     <Line Name="G599">AA VOR.G599.TEKOT</Line>
     <Line Name="H1">TBU VOR.H1.TLARP</Line>
     <Line Name="H103">RIDLA.H103.NR VOR</Line>
@@ -467,6 +467,7 @@
       <Point>OSUGA</Point>
       <Point>ASORO</Point>
       <Point>MEGOG</Point>
+      <Point>PUMIS</Point>
       <Point>LEBOL</Point>
       <Point>RUMIX</Point>
       <Point>NF VOR</Point>
@@ -508,6 +509,7 @@
       <Point>DOGSA</Point>
       <Point>DOTIK</Point>
       <Point>DUMUM</Point>
+      <Point>TAPAP</Point>
       <Point>NILAX</Point>
       <Point>GOMIK</Point>
       <Point>BAXIL</Point>
@@ -532,6 +534,7 @@
       <Point>LUTRA</Point>
       <Point>LUGLA</Point>
       <Point>LEMUN</Point>
+      <Point>ATURE</Point>
       <Point>ELDOG</Point>
       <Point>MIKOP</Point>
       <Point>GUBKA</Point>
@@ -597,6 +600,7 @@
       <Point>ODUTI</Point>
       <Point>PAVSI</Point>
       <Point>RAXER</Point>
+      <Point>SABUB</Point>
       <Point>OLBEX</Point>
       <Point>IGETO</Point>
       <Point>MUKLU</Point>
@@ -932,7 +936,7 @@
       <Point>OSPIX</Point>
       <Point>BOTKA</Point>
       <Point>OMBAL</Point>
-      <Point>ARROW</Point>
+      <Point>ENBIS</Point>
       <Point>MANGO</Point>
       <Point>BORVA</Point>
       <Point>DOSTU</Point>
@@ -1354,6 +1358,7 @@
       <Point>OSUGA</Point>
       <Point>ASORO</Point>
       <Point>MEGOG</Point>
+      <Point>PUMIS</Point>
       <Point>LEBOL</Point>
       <Point>RUMIX</Point>
       <Point>NF VOR</Point>
@@ -1395,6 +1400,7 @@
       <Point>DOGSA</Point>
       <Point>DOTIK</Point>
       <Point>DUMUM</Point>
+      <Point>TAPAP</Point>
       <Point>NILAX</Point>
       <Point>GOMIK</Point>
       <Point>BAXIL</Point>
@@ -1419,6 +1425,7 @@
       <Point>LUTRA</Point>
       <Point>LUGLA</Point>
       <Point>LEMUN</Point>
+      <Point>ATURE</Point>
       <Point>ELDOG</Point>
       <Point>MIKOP</Point>
       <Point>GUBKA</Point>
@@ -1484,6 +1491,7 @@
       <Point>ODUTI</Point>
       <Point>PAVSI</Point>
       <Point>RAXER</Point>
+      <Point>SABUB</Point>
       <Point>OLBEX</Point>
       <Point>IGETO</Point>
       <Point>MUKLU</Point>
@@ -1819,7 +1827,7 @@
       <Point>OSPIX</Point>
       <Point>BOTKA</Point>
       <Point>OMBAL</Point>
-      <Point>ARROW</Point>
+      <Point>ENBIS</Point>
       <Point>MANGO</Point>
       <Point>BORVA</Point>
       <Point>DOSTU</Point>

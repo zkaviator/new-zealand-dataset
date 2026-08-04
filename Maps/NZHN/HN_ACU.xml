@@ -6,35 +6,35 @@
       -37.873650+175.329706/HN36R/BUDEN
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy18L MUGIL1-->
+      <!--Rwy18L MUGIL2-->
       HN36R/MUGIL
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy18L MUGIL1.ATOLI-->
+      <!--Rwy18L MUGIL2.ATOLI-->
       MUGIL/GOMUD/ATOLI
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy18L MUGIL1.DABKA-->
+      <!--Rwy18L MUGIL2.DABKA-->
       MUGIL/DABKA
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy18L MUGIL1.DADUK-->
+      <!--Rwy18L MUGIL2.DADUK-->
       MUGIL/DADUK
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy18L MUGIL1.MOPVU-->
+      <!--Rwy18L MUGIL2.MOPVU-->
       GOMUD/RIBDA/ATPUL/MOPVU
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy18L MUGIL1.OVSAN-->
-      GOMUD/SCARY/OVSAN
+      <!--Rwy18L MUGIL2.OVSAN-->
+      GOMUD/LEBIP/OVSAN
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy18L MUGIL1.POKOM-->
+      <!--Rwy18L MUGIL2.POKOM-->
       GOMUD/POKOM
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy18L MUGIL1.SKEPY-->
+      <!--Rwy18L MUGIL2.SKEPY-->
       RIBDA/SKEPY
     </Line>
     <Line Pattern="Dashed">
@@ -72,7 +72,7 @@
       <Point>RIBDA</Point>
       <Point>ATPUL</Point>
       <Point>MOPVU</Point>
-      <Point>SCARY</Point>
+      <Point>LEBIP</Point>
       <Point>OVSAN</Point>
       <Point>POKOM</Point>
       <Point>SKEPY</Point>
@@ -270,42 +270,43 @@
   </Map>
   <Map Type="System2" Name="36R SIDs" Priority="1" CustomColourName="ProcDep" Center="-37.855806+175.336172">
     <Line Pattern="Dashed">
-      <!--Rwy36R AGULA1-->
+      <!--Rwy36R AGULA2-->
       -37.855806+175.336172/HN18L/AGULA
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy36R AGULA1.ATOLI-->
+      <!--Rwy36R AGULA2.ATOLI-->
       AGULA/BEKAK/ATOLI
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy36R AGULA1.ATPUL-->
+      <!--Rwy36R AGULA2.ATPUL-->
       AGULA/ATPUL
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy36R AGULA1.DABKA-->
+      <!--Rwy36R AGULA2.DABKA-->
       BEKAK/AGETO/METEN/DABKA
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy36R AGULA1.DADUK-->
+      <!--Rwy36R AGULA2.DADUK-->
       METEN/DADUK
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy36R AGULA1.MOPVU-->
+      <!--Rwy36R AGULA2.LEBIP-->
+      BEKAK/LEBIP
+    </Line>
+    <Line Pattern="Dashed">
+      <!--Rwy36R AGULA2.MOPVU-->
       ATPUL/MOPVU
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy36R AGULA1.OVSAN-->
-      BEKAK/SCARY/OVSAN
+      <!--Rwy36R AGULA2.OVSAN-->
+      LEBIP/OVSAN
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy36R AGULA1.POKOM-->
+      <!--Rwy36R AGULA2.POKOM-->
       AGETO/POKOM
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy36R AGULA1.SCARY-->
-    </Line>
-    <Line Pattern="Dashed">
-      <!--Rwy36R AGULA1.SKEPY-->
+      <!--Rwy36R AGULA2.SKEPY-->
       AGULA/SKEPY
     </Line>
     <Line Pattern="Dashed">
@@ -346,8 +347,8 @@
       <Point>METEN</Point>
       <Point>DABKA</Point>
       <Point>DADUK</Point>
+      <Point>LEBIP</Point>
       <Point>MOPVU</Point>
-      <Point>SCARY</Point>
       <Point>OVSAN</Point>
       <Point>POKOM</Point>
       <Point>SKEPY</Point>
@@ -370,10 +371,10 @@
       <Point>ATPUL</Point>
       <Point>DABKA</Point>
       <Point>DADUK</Point>
+      <Point>LEBIP</Point>
       <Point>MOPVU</Point>
       <Point>OVSAN</Point>
       <Point>POKOM</Point>
-      <Point>SCARY</Point>
       <Point>SKEPY</Point>
       <Point>DROPT</Point>
       <Point>GODOK</Point>
@@ -572,7 +573,6 @@
       <Point Name="FERGUSSON PARK">-373939.000+1760737.000</Point>
       <Point Name="GLENBROOK">-371223.500+1744346.600</Point>
       <Point Name="GORDONTON">-374013.400+1751818.200</Point>
-      <Point Name="GREEN SHED">-371327.000+1750152.000</Point>
       <Point Name="HAMILTON LAKE">-374754.580+1751625.520</Point>
       <Point Name="HAMURANA">-380200.000+1761518.200</Point>
       <Point Name="HAPARANGI">-381417.100+1761207.200</Point>
@@ -616,6 +616,7 @@
       <Point Name="RUKUHIA">-375107.600+1751820.700</Point>
       <Point Name="SCOTSMANS VALLEY">-374634.520+1752905.890</Point>
       <Point Name="SHOWGROUNDS">-374633.500+1751720.900</Point>
+      <Point Name="SPEEDWAY">-380753.000+1761056.000</Point>
       <Point Name="SPORTS GROUND">-374252.000+1761826.600</Point>
       <Point Name="ST PETERS SCHOOL">-375320.050+1752555.460</Point>
       <Point Name="TAIHIKI RIVER ESTUARY">-370955.500+1744728.600</Point>
@@ -645,7 +646,6 @@
       <Point Name="FERGUSSON PARK">-373939.000+1760737.000</Point>
       <Point Name="GLENBROOK">-371223.500+1744346.600</Point>
       <Point Name="GORDONTON">-374013.400+1751818.200</Point>
-      <Point Name="GREEN SHED">-371327.000+1750152.000</Point>
       <Point Name="HAMILTON LAKE">-374754.580+1751625.520</Point>
       <Point Name="HAMURANA">-380200.000+1761518.200</Point>
       <Point Name="HAPARANGI">-381417.100+1761207.200</Point>
@@ -689,6 +689,7 @@
       <Point Name="RUKUHIA">-375107.600+1751820.700</Point>
       <Point Name="SCOTSMANS VALLEY">-374634.520+1752905.890</Point>
       <Point Name="SHOWGROUNDS">-374633.500+1751720.900</Point>
+      <Point Name="SPEEDWAY">-380753.000+1761056.000</Point>
       <Point Name="SPORTS GROUND">-374252.000+1761826.600</Point>
       <Point Name="ST PETERS SCHOOL">-375320.050+1752555.460</Point>
       <Point Name="TAIHIKI RIVER ESTUARY">-370955.500+1744728.600</Point>

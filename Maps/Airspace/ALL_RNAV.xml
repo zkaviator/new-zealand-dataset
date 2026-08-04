@@ -2,10 +2,11 @@
 <Maps>
   <Map Type="System2" Name="RNP-AR" Priority="1" Center="-42.000+172.000" CustomColourName="ProcArr">
     <Label HasLeader="true">
+      <Point>AKDER</Point>
       <Point>KETOB</Point>
       <Point>ZORBA</Point>
       <Point>VABTI</Point>
-      <Point>TEVUC</Point>
+      <Point>APIPO</Point>
       <Point>VIRIS</Point>
       <Point>KIDAG</Point>
       <Point>ATAMA</Point>
@@ -54,6 +55,7 @@
       <Point>ATRAB</Point>
       <Point>SULAB</Point>
       <Point>AA427</Point>
+      <Point>SUBUN</Point>
       <Point>ELMAX</Point>
       <Point>WN416</Point>
       <Point>WN412</Point>
@@ -68,7 +70,6 @@
       <Point>AA521</Point>
       <Point>AA428</Point>
       <Point>AA516</Point>
-      <Point>SUBUN</Point>
       <Point>AA513</Point>
       <Point>ADLIB</Point>
       <Point>SADOS</Point>
@@ -158,10 +159,11 @@
     </Symbol>
     <!--IAF Symbols-->
     <Symbol Type="HollowTriangle">
+      <Point>AKDER</Point>
       <Point>KETOB</Point>
       <Point>ZORBA</Point>
       <Point>VABTI</Point>
-      <Point>TEVUC</Point>
+      <Point>APIPO</Point>
       <Point>VIRIS</Point>
       <Point>KIDAG</Point>
       <Point>ATAMA</Point>
@@ -216,15 +218,16 @@
     <!--IF Symbols-->
     <Symbol Type="SolidTriangle">
       <Point>AA427</Point>
+      <Point>SUBUN</Point>
       <Point>ELMAX</Point>
       <Point>WN416</Point>
       <Point>WN412</Point>
     </Symbol>
-    <Line Pattern="Solid">AA427/BUBKU/AA412/TEGIK/AA745/-370023.962+1744820.671</Line>
-    <Line Pattern="Solid">KETOB/AA407/AA427</Line>
+    <Line Pattern="Solid">AKDER/AA427/BUBKU/AA412/TEGIK/AA745/-370023.962+1744820.671</Line>
+    <Line Pattern="Solid">KETOB/AA407/AKDER</Line>
     <Line Pattern="Solid">ZORBA/AA411/AA407</Line>
     <Line Pattern="Solid">VABTI/AA521/AA428/AA516/TUSLO/AA745</Line>
-    <Line Pattern="Solid">TEVUC/SUBUN/AA513/AA412</Line>
+    <Line Pattern="Solid">APIPO/SUBUN/AA513/AA412</Line>
     <Line Pattern="Solid">VIRIS/ADLIB/SADOS/QUINA/LEPGO/OLDUR/AA744/ELBAD/-370058.741+1744614.819</Line>
     <Line Pattern="Solid">KIDAG/SAMUR/LAGUT/GOBOB/ESMON/AKROV/AA741/AA742/DUNAD/-370023.962+1744820.671</Line>
     <Line Pattern="Solid">ATAMA/PORAR/AA509/-370058.741+1744614.819</Line>
@@ -263,11 +266,10 @@
       <Point>OBLIV</Point>
       <Point>GUMAN</Point>
       <Point>KALGO</Point>
-      <Point>AP506</Point>
       <Point>AKABA</Point>
       <Point>EMSAR</Point>
-      <Point>MASKU</Point>
-      <Point>KINGS</Point>
+      <Point>PEDVI</Point>
+      <Point>SUGEM</Point>
       <Point>REDOG</Point>
       <Point>RIKNA</Point>
       <Point>EPKOT</Point>
@@ -546,6 +548,7 @@
       <Point>UDIRI</Point>
       <Point>VETUM</Point>
       <Point>BUSBI</Point>
+      <Point>AP506</Point>
       <Point>ALBAD</Point>
       <Point>DIVSU</Point>
       <Point>OREVU</Point>
@@ -560,7 +563,7 @@
     <Symbol Type="HollowTriangle">
       <Point>UGRUS</Point>
       <Point>ORESO</Point>
-      <Point>AR409</Point>
+      <Point>AR488</Point>
       <Point>AR401</Point>
       <Point>CH20T</Point>
       <Point>OVSED</Point>
@@ -593,11 +596,10 @@
       <Point>OBLIV</Point>
       <Point>GUMAN</Point>
       <Point>KALGO</Point>
-      <Point>AP506</Point>
       <Point>AKABA</Point>
       <Point>EMSAR</Point>
-      <Point>MASKU</Point>
-      <Point>KINGS</Point>
+      <Point>PEDVI</Point>
+      <Point>SUGEM</Point>
       <Point>REDOG</Point>
       <Point>RIKNA</Point>
       <Point>EPKOT</Point>
@@ -883,6 +885,7 @@
     </Symbol>
     <!--IF Symbols-->
     <Symbol Type="SolidTriangle">
+      <Point>AP506</Point>
       <Point>ALBAD</Point>
       <Point>DIVSU</Point>
       <Point>OREVU</Point>
@@ -901,10 +904,10 @@
     <Line Pattern="Solid">AP506/UBLUT/AP501/-384448.440+1760458.238</Line>
     <Line Pattern="Solid">AKABA/AP506</Line>
     <Line Pattern="Solid">EMSAR/AP506</Line>
-    <Line Pattern="Solid">MASKU/AP506</Line>
-    <Line Pattern="Solid">KINGS/UBKEL/AR409/-370204.470+1745811.129</Line>
-    <Line Pattern="Solid">REDOG/KINGS</Line>
-    <Line Pattern="Solid">RIKNA/KINGS</Line>
+    <Line Pattern="Solid">PEDVI/AP506</Line>
+    <Line Pattern="Solid">SUGEM/UBKEL/AR488/-370204.470+1745811.129</Line>
+    <Line Pattern="Solid">REDOG/SUGEM</Line>
+    <Line Pattern="Solid">RIKNA/SUGEM</Line>
     <Line Pattern="Solid">EPKOT/LEGUX/AR401/-370137.358+1745845.599</Line>
     <Line Pattern="Solid">FIRTH/EPKOT</Line>
     <Line Pattern="Solid">SATLA/EPKOT</Line>
