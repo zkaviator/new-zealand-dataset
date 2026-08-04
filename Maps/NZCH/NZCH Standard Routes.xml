@@ -13,8 +13,7 @@
     <Line Name="CHNP1" Pattern="Broken">PORAM/RIVTA/GULOV/IGUTA/AKAVI/OMKUN/SELTA/NP VOR</Line>
     <Line Name="CHNR2" Pattern="Broken">GRETA/LUXEV/KAKUR/WARDS/OMDOX/KAMET/BINIT/PM VOR/SELDU/BITIL/NR VOR</Line>
     <Line Name="CHNR4" Pattern="Broken">ODOWD/GOGUK/SAMEN/ELPIT/AGSOP/GOPRO/BINIT/PM VOR/SELDU/BITIL/NR VOR</Line>
-    <Line Name="CHNS2-02" Pattern="Broken">PORAM/RIVTA/MILON/BISEB</Line>
-    <Line Name="CHNS2-20" Pattern="Broken">PORAM/RIVTA/MILON/BISEB/GUNEL</Line>
+    <Line Name="CHNS3" Pattern="Broken">PORAM/RIVTA/MILON/BISEB</Line>
     <Line Name="CHNV3" Pattern="Broken">IDARA/DUKOP/NV VOR</Line>
     <Line Name="CHOH3" Pattern="Broken">GRETA/LUXEV/KAKUR/WARDS/OMDOX/KAMET/BINIT</Line>
     <Line Name="CHOH5" Pattern="Broken">ODOWD/GOGUK/SAMEN/ELPIT/AGSOP/GOPRO/BINIT</Line>
@@ -47,7 +46,7 @@
     </Label>
     <Label LabelOrientation="NE">
       <Point Name="AA1 HN3 WP1">GLENN</Point>
-      <Point Name="AA6 HN5 NP1 NS2-02">PORAM</Point>
+      <Point Name="AA6 HN5 NP1 NS3">PORAM</Point>
       <Point Name="CI1">LALAP</Point>
       <Point Name="DN1 NV3">IDARA</Point>
       <Point Name="GM1 HK1">AVOCA</Point>
@@ -58,7 +57,7 @@
       <Point Name="WN7">MANUI</Point>
     </Label>
     <Label LabelOrientation="SE" VerticalAlignment="Bottom">
-      <Point Name="NS2-20 WP6">PORAM</Point>
+      <Point Name="WP6">PORAM</Point>
       <Point Name="TG1 WN1">GRETA</Point>
       <Point Name="RO6 TG6 WB1">ODOWD</Point>
     </Label>
