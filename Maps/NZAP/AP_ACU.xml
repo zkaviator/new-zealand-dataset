@@ -261,29 +261,30 @@
     <Symbol Type="HollowTriangle" />
     <!--IAF Symbols-->
     <Symbol Type="HollowTriangle">
-      <Point>AP506</Point>
       <Point>AKABA</Point>
       <Point>EMSAR</Point>
-      <Point>MASKU</Point>
+      <Point>PEDVI</Point>
     </Symbol>
     <!--FAF Symbols-->
     <Symbol Type="MalteseCross">
       <Point>UBLUT</Point>
     </Symbol>
     <!--IF Symbols-->
-    <Symbol Type="SolidTriangle" />
+    <Symbol Type="SolidTriangle">
+      <Point>AP506</Point>
+    </Symbol>
     <Line Pattern="Solid">AP506/UBLUT/AP501/-384448.440+1760458.238</Line>
     <Line Pattern="Solid">AKABA/AP506</Line>
     <Line Pattern="Solid">EMSAR/AP506</Line>
-    <Line Pattern="Solid">MASKU/AP506</Line>
+    <Line Pattern="Solid">PEDVI/AP506</Line>
   </Map>
   <Map Type="System2" Name="35 RNP Labels" Priority="1" Center="-38.746789+176.082844" CustomColourName="ProcArr">
     <Label HasLeader="true">
-      <Point>AP506</Point>
       <Point>AKABA</Point>
       <Point>EMSAR</Point>
-      <Point>MASKU</Point>
+      <Point>PEDVI</Point>
       <Point>UBLUT</Point>
+      <Point>AP506</Point>
     </Label>
   </Map>
   <Map Type="System2" Name="VFRPoint" Priority="1" CustomColourName="VFRPoint" Center="-38.739722+176.084444">
@@ -320,6 +321,7 @@
       <Point Name="RANGATIRA POINT">-384417.600+1760100.700</Point>
       <Point Name="SANDFLY HILL">-384408.600+1760738.700</Point>
       <Point Name="SOUTHERN DAM">-385325.600+1760534.100</Point>
+      <Point Name="SPEEDWAY">-380753.000+1761056.000</Point>
       <Point Name="TE POHUE">-391500.700+1764056.700</Point>
       <Point Name="TIRAU">-375848.000+1754536.000</Point>
       <Point Name="TOKOROA">-381411.600+1755330.700</Point>
@@ -366,6 +368,7 @@
       <Point Name="RANGATIRA POINT">-384417.600+1760100.700</Point>
       <Point Name="SANDFLY HILL">-384408.600+1760738.700</Point>
       <Point Name="SOUTHERN DAM">-385325.600+1760534.100</Point>
+      <Point Name="SPEEDWAY">-380753.000+1761056.000</Point>
       <Point Name="TE POHUE">-391500.700+1764056.700</Point>
       <Point Name="TIRAU">-375848.000+1754536.000</Point>
       <Point Name="TOKOROA">-381411.600+1755330.700</Point>

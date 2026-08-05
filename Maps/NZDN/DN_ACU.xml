@@ -137,16 +137,16 @@
       DABCA/ELNEK/AKLAR
     </Line>
     <Line>
-      <!--Rwy03 EPDA3A-->
-      EPDAB/ALBOX/MANOP/AKLAR
+      <!--Rwy03 EPDA4A-->
+      EPDAB/ISBIT/MANOP/AKLAR
     </Line>
     <Line>
-      <!--Rwy03 MIPA6A-->
-      MIPAK/IPKUG/ADBAD/RELEK/ANBIG/BIPUV/AKLAR
+      <!--Rwy03 MIPA7A-->
+      MIPAK/IPKUG/IPMUL/RELEK/ANBIG/BIPUV/AKLAR
     </Line>
     <Line>
-      <!--Rwy03 MIPA3C-->
-      ADBAD/IVTOP/ELNEK
+      <!--Rwy03 MIPA4C-->
+      IPMUL/IVTOP/ELNEK
     </Line>
     <Symbol Type="HollowTriangle">
       <Point>AKLAR</Point>
@@ -170,11 +170,11 @@
       <Point>DABCA</Point>
       <Point>ELNEK</Point>
       <Point>EPDAB</Point>
-      <Point>ALBOX</Point>
+      <Point>ISBIT</Point>
       <Point>MANOP</Point>
       <Point>MIPAK</Point>
       <Point>IPKUG</Point>
-      <Point>ADBAD</Point>
+      <Point>IPMUL</Point>
       <Point>RELEK</Point>
       <Point>ANBIG</Point>
       <Point>BIPUV</Point>
@@ -220,10 +220,6 @@
       -45.933925+170.187472/DN03T/AKLAR/IDADO/AKPIN
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy21 ALBO3Q-->
-      AKLAR/ALBOX
-    </Line>
-    <Line Pattern="Dashed">
       <!--Rwy21 BASO3Q-->
       AKLAR/ANGOT/BASOS
     </Line>
@@ -256,6 +252,10 @@
       DN03T/MANRA/ENDUR/IDLIK/PIBEX/KAMVU/TURPI/BIDEL
     </Line>
     <Line Pattern="Dashed">
+      <!--Rwy21 ISBI1Q-->
+      AKLAR/ISBIT
+    </Line>
+    <Line Pattern="Dashed">
       <!--Rwy21 OCEAN6-->
     </Line>
     <Line Pattern="Dashed">
@@ -275,7 +275,6 @@
       <Point>AKLAR</Point>
       <Point>IDADO</Point>
       <Point>AKPIN</Point>
-      <Point>ALBOX</Point>
       <Point>ANGOT</Point>
       <Point>BASOS</Point>
       <Point>MESOG</Point>
@@ -299,14 +298,15 @@
       <Point>PIBEX</Point>
       <Point>KAMVU</Point>
       <Point>TURPI</Point>
+      <Point>ISBIT</Point>
     </Symbol>
     <Label HasLeader="true">
       <Point>AKPIN</Point>
-      <Point>ALBOX</Point>
       <Point>BASOS</Point>
       <Point>OREXI</Point>
       <Point>PORUT</Point>
       <Point>BIDEL</Point>
+      <Point>ISBIT</Point>
       <Point>BE NDB</Point>
       <Point>ADKOS</Point>
       <Point>LIBLA</Point>
@@ -320,32 +320,32 @@
       AKLAR/BIPUV/LOSKO/AKDAS/BIGAR/ESKAT
     </Line>
     <Line Pattern="Solid">
-      <!--Rwy21 BASO4B.ADKOS-->
+      <!--Rwy21 BASO5B.ADKOS-->
       ADKOS/AKBUM/GOGES/MESOG/BASOS
     </Line>
     <Line Pattern="Solid">
-      <!--Rwy21 BASO4B.LIBLA-->
+      <!--Rwy21 BASO5B.LIBLA-->
       LIBLA/BOKAV/MIMEG/ATRAG/BASOS
     </Line>
     <Line Pattern="Solid">
-      <!--Rwy21 BASO4B.SUNGU-->
+      <!--Rwy21 BASO5B.SUNGU-->
       SUNGU/BASOS
     </Line>
     <Line>
-      <!--Rwy21 BASO4B-->
-      BASOS/VELBI/ANGOT/EMTOX/ADBAD/BIGAR
+      <!--Rwy21 BASO5B-->
+      BASOS/VELBI/ANGOT/EMTOX/IPMUL/BIGAR
     </Line>
     <Line>
       <!--Rwy21 DABC3B-->
       DABCA/BIPUV
     </Line>
     <Line>
-      <!--Rwy21 EPDA3B-->
-      EPDAB/ALBOX/MANOP/BIPUV
+      <!--Rwy21 EPDA4B-->
+      EPDAB/ISBIT/MANOP/BIPUV
     </Line>
     <Line>
-      <!--Rwy21 MIPA4B-->
-      MIPAK/IPKUG/ADBAD
+      <!--Rwy21 MIPA5B-->
+      MIPAK/IPKUG/IPMUL
     </Line>
     <Symbol Type="HollowTriangle">
       <Point>ESKAT</Point>
@@ -369,10 +369,10 @@
       <Point>VELBI</Point>
       <Point>ANGOT</Point>
       <Point>EMTOX</Point>
-      <Point>ADBAD</Point>
+      <Point>IPMUL</Point>
       <Point>DABCA</Point>
       <Point>EPDAB</Point>
-      <Point>ALBOX</Point>
+      <Point>ISBIT</Point>
       <Point>MANOP</Point>
       <Point>MIPAK</Point>
       <Point>IPKUG</Point>

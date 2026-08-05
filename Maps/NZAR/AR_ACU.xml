@@ -131,11 +131,11 @@
   <Map Type="System2" Name="03 RNP" Priority="1" Center="-37.034575+174.969758" CustomColourName="ProcArr">
     <!--Fix Symbols-->
     <Symbol Type="HollowTriangle">
-      <Point>AR409</Point>
+      <Point>AR488</Point>
     </Symbol>
     <!--IAF Symbols-->
     <Symbol Type="HollowTriangle">
-      <Point>KINGS</Point>
+      <Point>SUGEM</Point>
       <Point>REDOG</Point>
       <Point>RIKNA</Point>
     </Symbol>
@@ -145,13 +145,13 @@
     </Symbol>
     <!--IF Symbols-->
     <Symbol Type="SolidTriangle" />
-    <Line Pattern="Solid">KINGS/UBKEL/AR409/-370204.470+1745811.129</Line>
-    <Line Pattern="Solid">REDOG/KINGS</Line>
-    <Line Pattern="Solid">RIKNA/KINGS</Line>
+    <Line Pattern="Solid">SUGEM/UBKEL/AR488/-370204.470+1745811.129</Line>
+    <Line Pattern="Solid">REDOG/SUGEM</Line>
+    <Line Pattern="Solid">RIKNA/SUGEM</Line>
   </Map>
   <Map Type="System2" Name="03 RNP Labels" Priority="1" Center="-37.034575+174.969758" CustomColourName="ProcArr">
     <Label HasLeader="true">
-      <Point>KINGS</Point>
+      <Point>SUGEM</Point>
       <Point>REDOG</Point>
       <Point>RIKNA</Point>
       <Point>UBKEL</Point>
@@ -360,7 +360,6 @@
       <Point Name="GLASSHOUSE">-370113.020+1750233.760</Point>
       <Point Name="GLENBROOK">-371223.500+1744346.600</Point>
       <Point Name="GORDONTON">-374013.400+1751818.200</Point>
-      <Point Name="GREEN SHED">-371327.000+1750152.000</Point>
       <Point Name="GULF HARBOUR MARINA">-363728.000+1744716.000</Point>
       <Point Name="HAMILTON LAKE">-374754.580+1751625.520</Point>
       <Point Name="HELENSVILLE">-364025.300+1742700.200</Point>
@@ -441,7 +440,6 @@
       <Point Name="GLASSHOUSE">-370113.020+1750233.760</Point>
       <Point Name="GLENBROOK">-371223.500+1744346.600</Point>
       <Point Name="GORDONTON">-374013.400+1751818.200</Point>
-      <Point Name="GREEN SHED">-371327.000+1750152.000</Point>
       <Point Name="GULF HARBOUR MARINA">-363728.000+1744716.000</Point>
       <Point Name="HAMILTON LAKE">-374754.580+1751625.520</Point>
       <Point Name="HELENSVILLE">-364025.300+1742700.200</Point>
