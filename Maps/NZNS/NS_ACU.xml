@@ -215,11 +215,11 @@
   </Map>
   <Map Type="System2" Name="20 SIDs" Priority="1" CustomColourName="ProcDep" Center="-41.301378+173.218953">
     <Line Pattern="Dashed">
-      <!--Rwy20 BISE2Q-->
+      <!--Rwy20 BISE3Q-->
       -41.301378+173.218953/NS20T/POTIR/ANITU/BISEB
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy20 CONO2Q-->
+      <!--Rwy20 CONO3Q-->
       ANITU/CONOR
     </Line>
     <Line Pattern="Dashed">
@@ -239,7 +239,7 @@
       -41.384722+173.098056/EGINO/VEMSI/MERUT/PUDIG
     </Line>
     <Line Pattern="Dashed">
-      <!--Rwy20 NEST2Q-->
+      <!--Rwy20 NEST3Q-->
       ANITU/NESTA
     </Line>
     <Line Pattern="Dashed">
