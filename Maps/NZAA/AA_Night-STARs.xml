@@ -143,7 +143,7 @@
     </Line>
     <Line>
       <!--Rwy23L TAZE2N-->
-      TAZEY/ZORBA/SABAV/EMRAG
+      TAZEY/AKDER/SABAV/EMRAG
     </Line>
     <Symbol Type="HollowTriangle">
       <Point>EMRAG</Point>
@@ -152,7 +152,7 @@
       <Point>PEBLU</Point>
       <Point>TAZEY</Point>
       <Point>VELMO</Point>
-      <Point>ZORBA</Point>
+      <Point>AKDER</Point>
       <Point>SABAV</Point>
     </Symbol>
     <Label HasLeader="true">
